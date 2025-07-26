@@ -10,7 +10,11 @@ The filter provided at this repository is compatible with [uBlacklist](https://g
 
 See [README at arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation#ublacklist-stack-overflow-translation).
 
-Use the following URL to subscribe.
+If you have followed the instructions [here](https://github.com/iorate/ublacklist?tab=readme-ov-file#subscription-links) to enable ruleset subscription links, the below links should allow you to subscribe in uBlacklist:
+
+* [ublacklist-github-translation](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Farosh%2Fublacklist-github-translation%2Fmaster%2FuBlacklist.txt&name=uBlacklist%20GitHub%20Translation)
+
+Otherwise, use the following URL to subscribe
 
 ```
 https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
